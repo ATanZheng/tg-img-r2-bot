@@ -47,10 +47,9 @@ cd tg-img-r2-bot
 
 ### 2️⃣ 配置 Bot 与 R2
 
-复制示例配置文件并填写真实信息：
+修改示例配置文件并填写真实信息：
 
 ```bash
-cp config.example.py config.py
 nano config.py
 ```
 
