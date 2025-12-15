@@ -1,8 +1,3 @@
----
-
-# ✅ 优化后的 `README.md`（推荐直接使用）
-
-````md
 # Telegram Image Bot (Cloudflare R2)
 
 一个 **私用 / 管理员限定** 的 Telegram 图床 Bot。  
