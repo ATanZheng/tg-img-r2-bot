@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  tg-img-bot:
+    image: tg-img-r2:latest
+    container_name: tg-img-bot
+    restart: always
+
+    volumes:
+      - ./config.py:/app/config.py:ro
+
+    environment:
+      - TZ=Asia/Shanghai
+
